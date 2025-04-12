@@ -1,5 +1,5 @@
 //Kristina Khristi 301483429
-//Rajan Boudel
+//Rajan Boudel 301365245
 //Harikrisnan Parmeswaran
 //Maziar Hassanzadeh Moghaddam
 
@@ -79,7 +79,7 @@ data class BottomNavigationItem(
     @DrawableRes val icon: Int,
     val text: String
 )
-
+//Bottom navigation preview
 @Preview
 @Preview(uiMode = UI_MODE_NIGHT_YES)
 @Composable
