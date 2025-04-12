@@ -1,6 +1,6 @@
 //Kristina Khristi 301483429
 //Rajan Boudel
-//Harikrisnan Parmeswaran
+//Harikrisnan Parameswaran
 //Maziar Hassanzadeh Moghaddam
 
 package com.loc.newsapp.presentation.search
